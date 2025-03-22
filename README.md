@@ -42,3 +42,5 @@ The following tech stacks are mainly used and power my application:
 3. An output report in form of json is produced having all key information extracted
 4. Hindi audio is generated summarizing final review of summary.
 5. User can ask questions about the company and LLM answers from the article corpus or using a RAG system
+
+In the repo I have included a jupyter notebook which works faster without all the backend and frontend code.
