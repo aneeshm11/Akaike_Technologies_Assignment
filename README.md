@@ -1,4 +1,4 @@
-# Company News Summarization & Analysis
+# Company News Articles Summarization & Analysis
 
 My assignment is a full-stack application that gathers, processes, and analyzes company news articles. It provides both a web interface and RESTful API endpoints to deliver a detailed company report that includes article summaries, sentiment analysis, topic extraction, and even audio summaries in Hindi. The application uses various natural language processing (NLP) techniques, web scraping methods, and large language model (LLM) integrations to produce its outputs.
 
