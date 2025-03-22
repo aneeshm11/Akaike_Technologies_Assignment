@@ -39,11 +39,11 @@ def get_time_based_content():
     hour = now.hour
     
     if 4 <= hour < 12:
-        return "Good Morning!", "morning.jpg"
+        return "Good Morning!", "morning.jpeg"
     elif 12 <= hour < 16:
-        return "Good Afternoon", "afternoon.jpg"
+        return "Good Afternoon", "afternoon.jpeg"
     else:
-        return "Good Evening", "evening.jpg"
+        return "Good Evening", "evening.jpeg"
 
 def set_background(image_file):
     try:
